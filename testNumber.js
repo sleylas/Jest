@@ -3,3 +3,4 @@ function filterPrice(value) {
 }
 let price = [2, 30, 45, 30, , 4, 6].filter(filterPrice);
 console.log(price);
+module.exports = filterPrice;
