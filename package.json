@@ -1,0 +1,22 @@
+{
+    "name": "lesson9",
+    "version": "1.0.0",
+    "description": "homework 9",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/sleylas/Jest.git"
+    },
+    "author": "Leyla Sadirkhanly",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/sleylas/Jest/issues"
+    },
+    "homepage": "https://github.com/sleylas/Jest#readme",
+    "devDependencies": {
+        "jest": "^29.4.2"
+    }
+}
